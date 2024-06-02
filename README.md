@@ -9,7 +9,8 @@ Utility Analysis: Assesses core functionality, ecosystem integration, token util
 Sentiment Analysis: Analyzes news sentiment using NLP and sentiment scores, incorporating news from the current day to a month back.
 Market Metrics and Technical Analysis: Fetches market metrics and performs technical analysis using historical data and technical indicators.
 PDF Report Generation: Compiles the analysis into a comprehensive PDF report with graphs and detailed summaries.
-Technologies Used
+
+# Technologies Used
 Python: Core programming language.
 Apache Spark: Used for optimized runtime with PySpark.
 aiohttp: For asynchronous HTTP requests.
@@ -23,34 +24,45 @@ FPDF: For generating PDF reports.
 newspaper3k: For scraping and parsing news articles.
 transformers: For sentiment analysis.
 sentence-transformers: For semantic similarity calculations.
-Installation
-Clone the repository:
 
+# Installation
+
+Clone the repository:
+```console
 bash
-Copy code
+#Copy code
 git clone https://github.com/your-username/CoinWise.git
 cd CoinWise
-Install the required dependencies:
+```
 
+Install the required dependencies:
+```console
 bash
-Copy code
+#Copy code
 pip install -r requirements.txt
 Set up API keys in your environment:
+```
 
+```console
 bash
 Copy code
 export NEWSAPI_API_KEY='your-newsapi-key'
 export OPENAI_API_KEY='your-openai-key'
 export COINMARKETCAP_API_KEY='your-coinmarketcap-key'
-Usage
+```
+
+# Usage
 Run the main script to start the analysis:
 
+```console
 bash
-Copy code
+#Copy code
 python evaluate_crypto_optimized.py
+```
+
 The script will analyze the specified cryptocurrency and generate a detailed PDF report with the analysis results.
 
-File Structure
+# File Structure
 evaluate_crypto_optimized.py: Main script for performing the analysis and generating the PDF report.
 requirements.txt: List of dependencies required for the project.
 README.md: Project documentation.
