@@ -56,9 +56,13 @@ The script will analyze the specified cryptocurrency and generate a detailed PDF
 
 # File Structure
 evaluate_crypto_optimized.py: Main script for performing the analysis and generating the PDF report.
+
 requirements.txt: List of dependencies required for the project.
+
 README.md: Project documentation.
+
 Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 License
