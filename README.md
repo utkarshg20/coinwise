@@ -36,9 +36,9 @@ cd CoinWise
 Install the required dependencies:
 ```bash
 pip install -r requirements.txt
-Set up API keys in your environment:
 ```
 
+Set up API keys in your environment:
 ```bash
 export NEWSAPI_API_KEY='your-newsapi-key'
 export OPENAI_API_KEY='your-openai-key'
