@@ -67,9 +67,15 @@ This project is licensed under the MIT License.
 
 # Example Output
 The final output is a PDF report containing:
+
 Overall Score: A composite score out of 100 based on various metrics.
+
 Market Metrics: Analysis of market cap, trading volume, supply, price changes, and technical indicators.
+
 Sentiment Analysis: Summary of sentiment scores, frequency of positive vs. negative news, and impact of key events.
+
 Utility and Use Case: Evaluation of core functionality, ecosystem integration, real-world applications, and more.
+
 White Paper Review: Detailed analysis of the white paper content.
+
 Website Analysis: Assessment of the cryptocurrency's website based on several criteria.
