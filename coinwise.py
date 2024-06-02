@@ -831,6 +831,7 @@ def generate_pdf(final_score, market_metrics_check, sentiment_check, average_sen
     pdf.image(sentiment_graph_path, x=10, y=10, w=pdf.w - 20)
     pdf.add_page()
     pdf.image(sentiment_df_path, x=10, y=10, w=pdf.w - 20)
+    pdf.add_page()
 
     add_text_to_pdf(pdf, "Utility and Use Case")
     add_text_to_pdf(pdf, utility_check)
