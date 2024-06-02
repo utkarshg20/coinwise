@@ -12,17 +12,29 @@ PDF Report Generation: Compiles the analysis into a comprehensive PDF report wit
 
 # Technologies Used
 Python: Core programming language.
+
 Apache Spark: Used for optimized runtime with PySpark.
+
 aiohttp: For asynchronous HTTP requests.
+
 asyncio: To handle asynchronous operations.
+
 nltk: Natural Language Toolkit for text processing.
+
 yfinance: Fetches historical market data.
+
 talib: Technical analysis library.
+
 matplotlib: For plotting graphs.
+
 OpenAI API: GPT for generating detailed analysis.
+
 FPDF: For generating PDF reports.
+
 newspaper3k: For scraping and parsing news articles.
+
 transformers: For sentiment analysis.
+
 sentence-transformers: For semantic similarity calculations.
 
 # Installation
