@@ -28,7 +28,7 @@ sentence-transformers: For semantic similarity calculations.
 # Installation
 
 Clone the repository:
-```console
+```bash
 bash
 #Copy code
 git clone https://github.com/your-username/CoinWise.git
