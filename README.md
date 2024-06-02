@@ -56,21 +56,17 @@ The script will analyze the specified cryptocurrency and generate a detailed PDF
 
 # File Structure
 evaluate_crypto_optimized.py: Main script for performing the analysis and generating the PDF report.
-
 requirements.txt: List of dependencies required for the project.
-
 README.md: Project documentation.
 
-Contributing
-
+# Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-License
+# License
 This project is licensed under the MIT License.
 
-Example Output
+# Example Output
 The final output is a PDF report containing:
-
 Overall Score: A composite score out of 100 based on various metrics.
 Market Metrics: Analysis of market cap, trading volume, supply, price changes, and technical indicators.
 Sentiment Analysis: Summary of sentiment scores, frequency of positive vs. negative news, and impact of key events.
