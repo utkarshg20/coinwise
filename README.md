@@ -29,23 +29,17 @@ sentence-transformers: For semantic similarity calculations.
 
 Clone the repository:
 ```bash
-bash
-#Copy code
 git clone https://github.com/your-username/CoinWise.git
 cd CoinWise
 ```
 
 Install the required dependencies:
-```console
-bash
-#Copy code
+```bash
 pip install -r requirements.txt
 Set up API keys in your environment:
 ```
 
-```console
-bash
-Copy code
+```bash
 export NEWSAPI_API_KEY='your-newsapi-key'
 export OPENAI_API_KEY='your-openai-key'
 export COINMARKETCAP_API_KEY='your-coinmarketcap-key'
@@ -54,9 +48,7 @@ export COINMARKETCAP_API_KEY='your-coinmarketcap-key'
 # Usage
 Run the main script to start the analysis:
 
-```console
-bash
-#Copy code
+```bash
 python evaluate_crypto_optimized.py
 ```
 
