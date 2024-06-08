@@ -11,31 +11,31 @@ Market Metrics and Technical Analysis: Fetches market metrics and performs techn
 PDF Report Generation: Compiles the analysis into a comprehensive PDF report with graphs and detailed summaries.
 
 # Technologies Used
-Python: Core programming language.
+- **Python: Core programming language.**
 
-Apache Spark: Used for optimized runtime with PySpark.
+- **Apache Spark: Used for optimized runtime with PySpark.**
 
-aiohttp: For asynchronous HTTP requests.
+- **aiohttp: For asynchronous HTTP requests.**
 
-asyncio: To handle asynchronous operations.
+- **asyncio: To handle asynchronous operations.**
 
-nltk: Natural Language Toolkit for text processing.
+- **nltk: Natural Language Toolkit for text processing.**
 
-yfinance: Fetches historical market data.
+- **yfinance: Fetches historical market data.**
 
-talib: Technical analysis library.
+- **talib: Technical analysis library.**
 
-matplotlib: For plotting graphs.
+- **matplotlib: For plotting graphs.**
 
-OpenAI API: GPT for generating detailed analysis.
+- **OpenAI API: GPT for generating detailed analysis.**
 
-FPDF: For generating PDF reports.
+- **FPDF: For generating PDF reports.**
 
-newspaper3k: For scraping and parsing news articles.
+- **newspaper3k: For scraping and parsing news articles.**
 
-transformers: For sentiment analysis.
+- **transformers: For sentiment analysis.**
 
-sentence-transformers: For semantic similarity calculations.
+- **sentence-transformers: For semantic similarity calculations.**
 
 # Installation
 
