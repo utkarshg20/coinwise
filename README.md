@@ -10,6 +10,8 @@ Sentiment Analysis: Analyzes news sentiment using NLP and sentiment scores, inco
 Market Metrics and Technical Analysis: Fetches market metrics and performs technical analysis using historical data and technical indicators.
 PDF Report Generation: Compiles the analysis into a comprehensive PDF report with graphs and detailed summaries.
 
+Reports generated CoinWise were published on ChainSpark.
+
 # Technologies Used
 - **Python: Core programming language.**
 
